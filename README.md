@@ -6,7 +6,7 @@
 **Tested up to:** 6.5  
 **Requires PHP:** 7.2  
 **Stable tag:** 1.3  
-**License:** GPLv2 or later  
+**License:** MIT 
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html   
 
 Generates LLM-friendly Markdown (`.md`) files for all WordPress pages and supports scheduled regeneration per post type.
